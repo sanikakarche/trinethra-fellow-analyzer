@@ -426,7 +426,7 @@ Example: 'Karthik? Haan, he is good. Very sincere boy. Comes on time, leaves on 
           gap: '12px'
         }}>
           <div style={{ fontSize: '11px', color: 'var(--ink-4)', fontFamily: 'DM Mono, monospace' }}>
-            Trinethra · DeepThought PDGMS · Runs on Ollama (local LLM, no cloud, no API key)
+            Trinethra · DeepThought PDGMS · Built by Sanika Karche · Runs on Ollama (local LLM, no cloud, no API key)
           </div>
           <div className="flex gap-3">
             {[
