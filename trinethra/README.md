@@ -1,5 +1,7 @@
 # Trinethra — Supervisor Feedback Analyzer
 
+> **GitHub:** https://github.com/sanikakarche/trinethra-fellow-analyzer
+
 > DeepThought PDGMS · Software Developer Internship Assignment
 
 A web application that processes supervisor interview transcripts through a local LLM (Ollama) to produce structured Fellow performance assessments — cutting the psychology intern's manual workload from 45-60 minutes to under 10 minutes.
