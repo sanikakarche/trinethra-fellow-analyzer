@@ -1,3 +1,7 @@
+// Trinethra — Supervisor Feedback Analyzer
+// DeepThought PDGMS | Software Developer Internship Assignment
+// Author: Sanika Karche
+// Model: Mistral (via Ollama) | Stack: Node/Express + React/Vite
 const express = require('express');
 const cors = require('cors');
 const helmet = require('helmet');
